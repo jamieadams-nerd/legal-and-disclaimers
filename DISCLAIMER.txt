@@ -1,0 +1,3 @@
+All code, examples, and documentation in my public repositories are provided for educational and illustrative purposes only.
+They are not intended for operational use in accredited MLS or CDS environments without formal evaluation and review.
+Use at your own risk.
