@@ -1,0 +1,5 @@
+Security Notice:
+
+Some repositories demonstrate secure coding, MLS/SELinux concepts, auditing design, or cryptographic techniques.
+These may not comply with FIPS, RTB, NCDSMO, or accreditation requirements.
+Always perform independent security analysis before relying on any example code.
